@@ -1,0 +1,16 @@
+[
+{
+  "modid": "souphud",
+  "name": "Soup HUD",
+  "description": "HUD leve e personalizavel para SoupPvP: contador de sopas, tigelas, espacos livres e status compacto.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
